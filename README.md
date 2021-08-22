@@ -10,3 +10,7 @@ HUAWEI E8372h-155
 で  
 HuaweiAltModeGlobal=1  
 を設定する。
+
+Google SpreadSheetへのアクセスに必要なモジュールをインストールする。  
+$ pip install --upgrade google-api-python-client  
+$ pip install --upgrade oauth2client  
