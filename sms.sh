@@ -10,7 +10,7 @@ do
   fi
 
   # check SMS message
-  python sms2_run.py > input.csv
+  python sms3_run.py > input.csv
 
   # update Google SpreadSheet
   if [ -s input.csv ]; then
