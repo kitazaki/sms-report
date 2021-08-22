@@ -16,4 +16,4 @@ $ pip install --upgrade google-api-python-client
 $ pip install --upgrade oauth2client  
 
 スクリプトをバックグラウンドで起動する。  
-$ nohup sh sms.sh &  
+$ nohup ./sms.sh &  
